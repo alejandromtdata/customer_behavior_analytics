@@ -102,4 +102,4 @@ The project focuses on delivering actionable business insights, including:
 
 **GitHub:** https://github.com/alejandromtdata
 
-**LinkedIn:** *(añadiremos el enlace cuando terminemos el perfil)*
+**LinkedIn:** https://www.linkedin.com/in/alejandro-morillas-data/
