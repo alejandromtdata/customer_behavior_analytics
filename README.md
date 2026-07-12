@@ -218,18 +218,6 @@ El proyecto debe responder:
 
 - ¿Dónde se pierde dinero (refunds, churn temprano)?
 
-Debe acabar con:
-
-- Insights claros
-
-- Recomendaciones accionables
-
-- Visualizaciones bien explicadas
-
-
-
-### Proyecto creado por Alejandromtdata con Python y VS Code.
-
 📬 Contacto: alejandromtdata@outlook.es
 
 💻 GitHub: https://github.com/alejandromtdata
